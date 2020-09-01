@@ -1,4 +1,4 @@
 dataset name,data file name,annotation file name,Tstats file name
 Human_disopred3,sig_human_disopred3.csv,mitarg.csv,Tstats_mitHuman_lam03.csv
 Yeast_2020,sig_yeast_2020.csv,mitTarg_yeast.csv,Tstats_yeast.csv
-Human_SPOTd,sig_human_SPOTd.csv,mitTarg_SPOTd.csv,Tstats_SPOTd_lam0.3.csv
+Human_SPOTd,sig_human_SPOTd_test.csv,mitTarg_SPOTd.csv,Tstats_SPOTd_lam0.3.csv
